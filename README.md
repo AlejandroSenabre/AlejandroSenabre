@@ -17,9 +17,8 @@ En este espacio personal comparto mis proyectos a medida que profundizo en la in
 
 ## 📂 Proyectos destacados
 
-*   **[Análisis de Riesgo Crediticio con SQL](https://github.com/alejandrosenabre/Data-Analysis-with-SQL):** Desarrollo de bases de datos relacionales y consultas avanzadas para la gestión de carteras y detección de mora.
-*   **[Machine Learning para Toma de Decisiones](https://github.com/alejandrosenabre/Proyecto-Data-Science-CoderHouse):** Modelado predictivo end-to-end utilizando Python para resolver problemas complejos de negocio.
-*   **[Tracker de Finanzas Personales](https://github.com/alejandrosenabre/mis-cuotas-tracker):** Herramienta automatizada para el seguimiento de consumos y planificación financiera mensual.
+*   **[Predicción de Riesgo Crediticio con Machine Learning](https://github.com/alejandrosenabre/Proyecto-Data-Science-CoderHouse):** Desarrollo de un modelo predictivo end-to-end en Python para estimar la probabilidad de mora (*default*) en préstamos bancarios, apoyando la toma de decisiones de riesgo.
+*   **[Análisis Comercial y Operativo con SQL](https://github.com/alejandrosenabre/Data-Analysis-with-SQL):** Exploración de bases de datos relacionales y resolución de casos de negocio, integrando consultas avanzadas de SQL y Python para analizar el comportamiento de clientes y ventas.
 
 ---
 
